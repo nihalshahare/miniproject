@@ -1,2 +1,2 @@
-# project  ******TIC-TAC TOE GAME IMPLEMENTATION*******
+#  ******TIC-TAC TOE GAME IMPLEMENTATION*******
 This is two player game. 
